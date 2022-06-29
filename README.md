@@ -1,1 +1,1 @@
-# Pensamento COmputacional - 1 Serie A
+# Pensamento Computacional - 1 Serie A
