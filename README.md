@@ -13,9 +13,10 @@ Consulte **Implantação** para saber como implantar o projeto.
 
 Você precisa  instalar algum desses progr:
 
-```Aton, Sublime e VS Code
+```Aton, Sublime e VS  Code
 Dar exemplos
 ```
+Aton, Sublime ou VS Code
 
 ### 🔧 Instalação
 
