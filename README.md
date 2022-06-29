@@ -1,1 +1,1 @@
-# PC1serieA
+# Pensamento COmputacional - 1 Serie A
